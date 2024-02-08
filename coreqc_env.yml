@@ -1,0 +1,45 @@
+name: coreqc
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - altgraph=0.17.2=pyhd8ed1ab_0
+  - bzip2=1.0.8=h8ffe710_4
+  - ca-certificates=2021.10.8=h5b45459_0
+  - et_xmlfile=1.0.1=py_1001
+  - future=0.18.2=py310h5588dad_4
+  - intel-openmp=2022.0.0=h57928b3_3663
+  - libblas=3.9.0=13_win64_mkl
+  - libcblas=3.9.0=13_win64_mkl
+  - libffi=3.4.2=h8ffe710_5
+  - liblapack=3.9.0=13_win64_mkl
+  - libzlib=1.2.11=h8ffe710_1013
+  - macholib=1.14=pyh9f0ad1d_1
+  - mkl=2022.0.0=h0e2418a_796
+  - numpy=1.22.2=py310hcae7c84_0
+  - openpyxl=3.0.9=pyhd8ed1ab_0
+  - openssl=3.0.2=h8ffe710_1
+  - pandas=1.4.1=py310hf5e1058_0
+  - pefile=2021.9.3=pyhd8ed1ab_0
+  - pip=22.0.3=pyhd8ed1ab_0
+  - pyinstaller=4.10=py310h3cefddf_0
+  - pyinstaller-hooks-contrib=2022.2=pyhd8ed1ab_0
+  - python=3.10.2=hcf16a7b_3_cpython
+  - python-dateutil=2.8.2=pyhd8ed1ab_0
+  - python_abi=3.10=2_cp310
+  - pytz=2021.3=pyhd8ed1ab_0
+  - pywin32=303=py310he2412df_0
+  - pywin32-ctypes=0.2.0=py310h5588dad_1004
+  - setuptools=60.9.3=py310h5588dad_0
+  - six=1.16.0=pyh6c4a22f_0
+  - sqlite=3.37.0=h8ffe710_0
+  - tbb=2021.5.0=h2d74725_0
+  - tk=8.6.12=h8ffe710_0
+  - tzdata=2021e=he74cb21_0
+  - ucrt=10.0.20348.0=h57928b3_0
+  - vc=14.2=hb210afc_6
+  - vs2015_runtime=14.29.30037=h902a5da_6
+  - wheel=0.37.1=pyhd8ed1ab_0
+  - xlrd=2.0.1=pyhd8ed1ab_3
+  - xz=5.2.5=h62dcd97_1
+
