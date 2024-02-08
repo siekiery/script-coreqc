@@ -1,5 +1,6 @@
 # CoreQC
-### Developer: Jakub Pitera  
+### Demo version for GitHub
+### Developed by: Jakub Pitera  
 
 Performs automated QC of Recall CSV logs while also performing necessary postprocessing steps.
 
